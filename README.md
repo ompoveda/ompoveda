@@ -24,6 +24,6 @@
 
 ## Contacto
 
-¡Si quieres saber más sobre mi experiencia y habilidades, no dudes en contactarme! Puedes encontrarme en [[LinkedIn][(ttps://www.linkedin.com/in/ompoveda/)] y [Twitter](https://www.twitter.com/ompoveda).
+¡Si quieres saber más sobre mi experiencia y habilidades, no dudes en contactarme! Puedes encontrarme en [[LinkedIn][(https://www.linkedin.com/in/ompoveda/)] y [Twitter](https://www.twitter.com/ompoveda).
 
 ¡Espero que esta información sea útil! Si necesitas ayuda adicional, no dudes en preguntar.
